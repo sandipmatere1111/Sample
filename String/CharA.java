@@ -14,6 +14,9 @@ public class CharA{
         c=s.codePointAt(2);
         System.out.println(c);
 
+        c=s.codePointAt(5);
+        System.out.println(c);
+
 
 
        
