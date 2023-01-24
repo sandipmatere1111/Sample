@@ -15,6 +15,7 @@ public class Compare{
          System.out.println(result);
 
          //compare Charater sequence with sring
+         System.out.println("compare character sequence with string ");
          CharSequence cs = "sandip.matere";
          result = str1.contentEquals(cs);
          System.out.println(result);
